@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-size: 63%;
+    background-position-y: 20px;
+    background-position-x: 40px;
+    /* border: 1px solid red; */
+}
+ul li{
+    display: inline-block;
+    width: 100px;
+}
+ul li a{
+    color: black;
+    font-weight: 1000;
+}
+.nav{
+    display: inline-block;
+    margin-left: 60%;
+}
+ul{
+    display: inline-block;
+}
+.logo{
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 1000;
+    font-family: Calibri;
+    margin-left: 50px;
+    text-transform: uppercase;
+    position: relative;
+    top: 25px;
+    left: 0px;
+}
